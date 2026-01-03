@@ -1,57 +1,65 @@
 # 👋 Hi, I'm Montaser Karam
 
-## 💻 C++ Developer | Problem Solving Enthusiast
+## 💻 Professional C++ Developer | Problem Solving
 
-I am a C++ programmer interested in building strong fundamentals in programming,  
-data structures, and algorithms. I enjoy solving problems and continuously improving my skills.
+C++ developer focused on building efficient, clean, and scalable software.  
+Strong interest in **Data Structures**, **Algorithms**, and **Object-Oriented Programming**.  
+Continuously improving skills through problem solving and real-world projects.
 
 ---
 
-## 🚀 Skills
-- C++
-- Object-Oriented Programming (OOP)
-- Data Structures
-- Algorithms
-- Problem Solving
-- STL (Standard Template Library)
+## 🧠 Technical Skills
+- **Programming Language:** C++
+- **Core Concepts:** OOP, Memory Management
+- **Data Structures:** Arrays, Vectors, Stacks, Queues, Linked Lists, Trees
+- **Algorithms:** Searching, Sorting, Recursion, Basic Dynamic Programming
+- **Libraries & Tools:** STL, Git, GitHub
+- **Problem Solving:** Competitive Programming
+
+---
+
+## 📌 Experience & Practice
+- Solving algorithmic problems with optimized C++ solutions
+- Writing clean and readable code following best practices
+- Applying STL to improve performance and reduce complexity
 
 ---
 
 ## 📚 Currently Learning
 - Advanced Data Structures
-- Algorithm Optimization
-- Competitive Programming
-- Clean Code & Best Practices in C++
+- Algorithm Optimization Techniques
+- Modern C++ (C++17 / C++20)
+- Software Design Principles
 
 ---
 
 ## 🏆 Problem Solving Platforms
-- Codeforces
-- LeetCode
-- HackerRank
+- Codeforces: https://codeforces.com/profile/YourHandle
+- LeetCode: https://leetcode.com/YourUsername
+- HackerRank: https://www.hackerrank.com/YourUsername
 
 ---
 
 ## 📂 Projects
-- 🔹 C++ Basics Programs  
-- 🔹 Data Structures Implementations  
-- 🔹 Problem Solving Solutions  
+- C++ Fundamentals & OOP Applications
+- Data Structures Implementations
+- Algorithmic Problem Solutions
 
-*(More projects coming soon 🚀)*
-
----
-
-## 📫 Contact Me
-- GitHub: https://github.com/YourUsername
-- Codeforces: https://codeforces.com/profile/YourHandle
+> More projects will be added soon.
 
 ---
 
-## ⭐ Goals
-- Become a strong C++ Software Developer
+## 🎯 Career Goals
+- Become a professional C++ Software Engineer
 - Master Data Structures & Algorithms
-- Participate in Competitive Programming Contests
+- Contribute to open-source C++ projects
 
 ---
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+## 📫 Contact
+- GitHub: https://github.com/YourUsername
+- Email: your@email.com
+
+---
+
+⭐ *Consistency and practice are the keys to mastery.*
